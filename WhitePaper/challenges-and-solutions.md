@@ -7,6 +7,7 @@ This chapter identifies key challenges in implementing federated authentication 
 
 
 ### Discoverability
+_From the MAAP Use Cases_
 
 The discoverability of authentication mechanisms—especially for automated access—is equally critical. Standardization is required both in the mechanisms themselves and in the way they are advertised or communicated.
 For users or systems consuming data programmatically, inconsistent discovery mechanisms mean that each time data is accessed from a new organization, automation logic must be adapted. This creates friction and increases the operational burden.
