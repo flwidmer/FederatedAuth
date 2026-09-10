@@ -27,6 +27,8 @@ sphinx:
   config:
     html_css_files:
       - custom.css
+    html_theme_options:
+      show_toc_level: 3
     
 # Add a bibtex file so that we can create citations
 bibtex_bibfiles:
